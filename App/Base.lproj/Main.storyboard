@@ -82,7 +82,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
-                        <outlet property="lblName" destination="lrx-G7-bNc" id="C2v-Fm-hpZ"/>
+                        <outlet property="txtMail" destination="lrx-G7-bNc" id="Pt4-Ts-NeZ"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
